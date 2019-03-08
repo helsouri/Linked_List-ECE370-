@@ -1,4 +1,5 @@
 # Linked_List-ECE370-
+## Summary
 This program is to implement a number of functions on a linked list. <br>
 1. Insertion of a node to a linked list, by given criteria <br>
 2. Deletion of a node on a linked list, by given criteria <br>
